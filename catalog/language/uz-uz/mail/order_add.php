@@ -1,0 +1,36 @@
+<?php
+// Matn
+$_['text_subject']          = '%s - Buyurtma %s';
+$_['text_greeting']         = '%s mahsulotlariga qiziqish uchun rahmat. Sizning buyurtmangiz qabul qilindi va yaqin orada ishlab chiqarish jarayoniga kiradi.';
+$_['text_link']             = 'Sizning buyurtmangizni ko‘rish uchun quyidagi havolaga o‘ting:';
+$_['text_order_detail']     = 'Buyurtma tafsilotlari';
+$_['text_instruction']      = 'Qo‘llanma';
+$_['text_order_id']         = 'Buyurtma raqami:';
+$_['text_date_added']       = 'Buyurtma sanasi:';
+$_['text_order_status']     = 'Buyurtma holati:';
+$_['text_payment_method']   = 'To‘lov usuli:';
+$_['text_shipping_method']  = 'Yetkazib berish usuli:';
+$_['text_email']            = 'E-mail:';
+$_['text_telephone']        = 'Telefon:';
+$_['text_ip']               = 'IP-manzil:';
+$_['text_payment_address']  = 'To‘lov manzili';
+$_['text_shipping_address'] = 'Yetkazib berish manzili';
+$_['text_products']         = 'Mahsulotlar';
+$_['text_product']          = 'Mahsulot';
+$_['text_model']            = 'Model';
+$_['text_quantity']         = 'Miqdori';
+$_['text_price']            = 'Narxi';
+$_['text_order_total']      = 'Buyurtma jami';
+$_['text_total']            = 'Jami';
+$_['text_subscription']             = 'Obunalar';
+$_['text_subscription_trial']       = '%s har bir %d %s davomida %d to‘lov uchun, so‘nggi';
+$_['text_subscription_duration']    = '%s har bir %d %s davomida %d to‘lov uchun';
+$_['text_subscription_cancel']      = '%s har bir %d %s davomida to‘lovni bekor qilishgacha';
+$_['text_day']                      = 'kun';
+$_['text_week']                     = 'hafta';
+$_['text_semi_month']               = 'yarim oy';
+$_['text_month']                    = 'oy';
+$_['text_year']                     = 'yil';
+$_['text_download']         = 'To‘lovni tasdiqlagandan so‘ng, yuklab olinadigan mahsulotlar quyidagi havoladan foydalanishingiz mumkin:';
+$_['text_comment']          = 'Buyurtmangiz uchun izoh:';
+$_['text_footer']           = 'Agar sizda biron bir savol bo‘lsa, ushbu xabar orqali javob bering.';

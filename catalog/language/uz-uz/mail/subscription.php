@@ -1,0 +1,34 @@
+<?php
+// Matn
+$_['text_subject']               = '%s - Obuna %s';
+$_['text_greeting']              = '%s mahsulotiga ko‘rsatilgan qiziqish uchun rahmat. Sizning obuna so‘roqingiz qabul qilindi va to‘lov tasdiqlanganidan so‘ng ishlab chiqiladi.';
+$_['text_link']                  = 'Sizning obunangizni ko‘rish uchun quyidagi havolaga o‘ting:';
+$_['text_promotion']             = 'Bu obuna muvaffaqiyatli ravishda reklama funksiyasi qo‘shildi!';
+$_['text_subscription_trial']    = '%s har bir %d %s uchun %d to‘lov amal qilinadi, so‘nggi';
+$_['text_subscription_duration'] = '%s har bir %d %s uchun %d to‘lov amal qilinadi';
+$_['text_subscription_cancel']   = '%s har bir %d %s uchun to‘lov bekor qilingunga qadar';
+$_['text_subscription_detail']   = 'Obuna tafsilotlari';
+$_['text_instruction']           = 'Qo‘llanma';
+$_['text_orders_id']             = 'Buyurtma raqami:';
+$_['text_date_added']            = 'Qo‘shilgan sana:';
+$_['text_order_status']          = 'Buyurtma holati:';
+$_['text_payment_method']        = 'To‘lov usuli:';
+$_['text_payment_address']       = 'To‘lov manzili';
+$_['text_email']                 = 'Elektron pochta:';
+$_['text_telephone']             = 'Telefon:';
+$_['text_ip']                    = 'IP-manzil:';
+$_['text_products']              = 'Mahsulotlar';
+$_['text_product']               = 'Mahsulot';
+$_['text_model']                 = 'Model';
+$_['text_quantity']              = 'Miqdori';
+$_['text_price']                 = 'Narxi';
+$_['text_order_total']           = 'Buyurtma jami';
+$_['text_total']                 = 'Jami';
+$_['text_comment']               = 'Sizning obunangiz uchun sharhlar quyidagi:';
+$_['text_description']           = 'Ta’rif';
+$_['text_day']                   = 'kun';
+$_['text_week']                  = 'hafta';
+$_['text_semi_month']            = 'yarim oy';
+$_['text_month']                 = 'oy';
+$_['text_year']                  = 'yil';
+$_['text_footer']                = 'Agar sizda savollar bo‘lsa, iltimos, ushbu elektron xatga javob bering.';

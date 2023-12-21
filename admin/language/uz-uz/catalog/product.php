@@ -1,0 +1,133 @@
+<?php
+// Heading
+$_['heading_title']          = 'Tovarlar';
+
+// Text
+$_['text_success']           = 'Sozlamalar muvaffaqiyatli o\'zgartirildi!';
+$_['text_variant']           = 'Iltimos, e\'tibor bering, chunki bu variantli mahsulot, sizning joriy mahsulotingizning qiymatlarini qayta belgilashingiz kerak</a> . Aks holda, ma\'lumotlar <a href="%s" target="_blank" class="alert-link">asosiy mahsulot</a> ma\'lumotlari bilan almashtiriladi.';
+$_['text_list']              = 'Tovarlar ro\'yxati';
+$_['text_add']               = 'Qo\'shish';
+$_['text_edit']              = 'Tahrirlash';
+$_['text_variant_add']       = 'Variant qo\'shish';
+$_['text_model']             = 'Model';
+$_['text_price']             = 'Narx';
+$_['text_stock']             = 'Miqdori';
+$_['text_specification']     = 'Spetsifikatsiya';
+$_['text_filter']            = 'Filter';
+$_['text_default']           = 'Asosiy do\'kon';
+$_['text_keyword']           = 'Bo\'sh joylarni ishlatmang, ularni - (chiziq) bilan almashtiring va SEO URLning butun do\'kon uchun unikal bo\'lishiga ishonch hosil qiling.';
+$_['text_option_add']        = 'Variant qo\'shish';
+$_['text_option_value']      = 'Variant qiymati';
+$_['text_select']            = 'Ro\'yxat';
+$_['text_radio']             = 'Suzish';
+$_['text_checkbox']          = 'Belgilash';
+$_['text_input']             = 'Kiritish maydoni';
+$_['text_text']              = 'Matn';
+$_['text_textarea']          = 'Matn maydoni';
+$_['text_file']              = 'Fayl';
+$_['text_date']              = 'Sana';
+$_['text_datetime']          = 'Sana va vaqt';
+$_['text_time']              = 'Vaqt';
+$_['text_image']             = 'Rasm';
+$_['text_image_additional']  = 'Qo\'shimcha tasvirlar';
+$_['text_reward']            = 'Buyurtma ballari';
+$_['text_points']            = 'Bonus ballar';
+
+// Ustun
+$_['column_name']            = 'Tovar nomi';
+$_['column_model']           = 'Model';
+$_['column_image']           = 'Tasvir';
+$_['column_price']           = 'Sayt narxi';
+$_['column_quantity']        = 'Miqdori';
+$_['column_status']          = 'Holati';
+$_['column_ip']              = 'IP';
+$_['column_store']           = 'Do\'kon';
+$_['column_country']         = 'Davlat';
+$_['column_date_added']      = 'Sana';
+$_['column_action']          = 'Harakat';
+
+// Kiritish
+$_['entry_name']             = 'Tovar nomi';
+$_['entry_description']      = 'Ta\'rif';
+$_['entry_meta_title']       = 'Meta-teg Sarlavhasi';
+$_['entry_meta_keyword']     = 'Meta-teg Kalimasi';
+$_['entry_meta_description'] = 'Meta-teg Ta\'rifi';
+$_['entry_store']            = 'Do\'konlar';
+$_['entry_keyword']          = 'SEO URL';
+$_['entry_model']            = 'Model';
+$_['entry_sku']              = 'Artikul';
+$_['entry_upc']              = 'UPC';
+$_['entry_ean']              = 'EAN';
+$_['entry_jan']              = 'JAN';
+$_['entry_isbn']             = 'ISBN';
+$_['entry_mpn']              = 'MPN';
+$_['entry_location']         = 'Joylashuvi';
+$_['entry_shipping']         = 'Yetkazib berish talab qilinadi';
+$_['entry_manufacturer']     = 'Ishlab chiqaruvchi';
+$_['entry_date_available']   = 'Mavjud bo\'lgan sana';
+$_['entry_quantity']         = 'Miqdori';
+$_['entry_minimum']          = 'Eng past miqdori';
+$_['entry_stock_status']     = 'Omborda mavjud emasligi';
+$_['entry_price']            = 'Narx';
+$_['entry_trial_price']      = 'Sinov narxi';
+$_['entry_tax_class']        = 'Soliq';
+$_['entry_points']           = 'Ballar';
+$_['entry_subtract']         = 'Ombordan bajasini hisoblash';
+$_['entry_weight_class']     = 'Vazn birliklari';
+$_['entry_weight']           = 'Vazn';
+$_['entry_dimension']        = 'Hajm (U x K x B)';
+$_['entry_length_class']     = 'Uzunlik birliklari';
+$_['entry_length']           = 'Uzunlik';
+$_['entry_width']            = 'Eni';
+$_['entry_height']           = 'Balandligi';
+$_['entry_option']           = 'Variant';
+$_['entry_option_value']     = 'Variant qiymati';
+$_['entry_customer_group']   = 'Mijozlar guruhu';
+$_['entry_date_start']       = 'Boshlanish sanasi';
+$_['entry_date_end']         = 'Tugash sanasi';
+$_['entry_priority']         = 'Ustuvorlik';
+$_['entry_attribute']        = 'Atribut';
+$_['entry_attribute_group']  = 'Atributlar guruhu';
+$_['entry_image']            = 'Rasm';
+$_['entry_text']             = 'Matn';
+$_['entry_required']         = 'Zarur';
+$_['entry_status']           = 'Holati';
+$_['entry_sort_order']       = 'Tartib tartibi';
+$_['entry_category']         = 'Kategoriyalarda ko\'rsatish';
+$_['entry_filter']           = 'Filterlar';
+$_['entry_download']         = 'Yuklamalar';
+$_['entry_related']          = 'Tavsiya qilingan mahsulotlar';
+$_['entry_tag']              = 'Tovar teglari';
+$_['entry_reward']           = 'Bonus ballari';
+$_['entry_layout']           = 'Maket';
+$_['entry_subscription']     = 'Obuna bo\'lish uchun reja';
+
+// Yordam
+$_['help_tag']               = 'teglar vergul bilan ajratiladi';
+$_['help_sku']               = 'SKU yoki ishlab chiqaruvchi kodi';
+$_['help_upc']               = 'Universal mahsulot kodi';
+$_['help_ean']               = 'Evropeyskiy mahsulot kodi';
+$_['help_jan']               = 'Yapon mahsulot kodi';
+$_['help_isbn']              = 'Xalqaro standart raqami';
+$_['help_mpn']               = 'Ishlab chiqaruvchi raqami';
+$_['help_minimum']           = 'Buyurtmada eng kam miqdor (ushbu miqdordan past mahsulot sotib olinmaydi)';
+$_['help_stock_status']      = 'Mahsulot ombudda yo\'q';
+$_['help_points']            = 'Mahsulotni sotib olish uchun ballar soni. Bonus ballari orqali mahsulotni sotib olishni taqiqlash uchun 0 ni qo\'yishingiz mumkin.';
+$_['help_manufacturer']      = '(Avtoto\'ldirish)';
+$_['help_category']          = '(Avtoto\'ldirish)';
+$_['help_filter']            = '(Avtoto\'ldirish)';
+$_['help_download']          = '(Avtoto\'ldirish)';
+$_['help_related']           = '(Avtoto\'ldirish)';
+$_['help_option']            = '(Avtoto\'ldirish)';
+
+// Xatolik
+$_['error_warning']          = 'Iltimos, shaklni tekshirib ko\'ring!';
+$_['error_permission']       = 'Sizda tovarlarni o\'zgartirishga ruxsat yo\'q!';
+$_['error_name']             = 'Tovar nomi 1 dan 255 belgiga teng bo\'lishi kerak!';
+$_['error_meta_title']       = 'Meta-teg Sarlavhasi 1 dan 255 belgiga teng bo\'lishi kerak!';
+$_['error_model']            = 'Tovar modeli 1 dan 64 belgiga teng bo\'lishi kerak!';
+$_['error_seo']              = 'SEO URL kerak va majburiy!';
+$_['error_keyword']          = 'SEO URL 1 dan 64 belgiga teng bo\'lishi kerak!';
+$_['error_keyword_exists']   = 'SEO URL noma\'lum bo\'lishi kerak!';
+$_['error_keyword_character']   = 'Kalit faqat a-z, 0-9, - va _ belgilari bilan bo\'lishi kerak ';
+$_['error_required']         = '%s zarur!';
